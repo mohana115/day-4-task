@@ -1,0 +1,1 @@
+this is program inanonymous ,IIFE and arrow in javascript
