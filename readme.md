@@ -1,1 +1,1 @@
-this is program inanonymous ,IIFE and arrow in javascript
+this is day 4 task  program in anonymous ,IIFE and arrow in javascript
